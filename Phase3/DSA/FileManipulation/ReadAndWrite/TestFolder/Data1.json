@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Bhuvanesh",
+    "FatherName": "Dhakshinamoorthy",
+    "StudentGender": 1,
+    "DOB": "2001-07-06T00:00:00",
+    "TotalMark": 100
+  },
+  {
+    "Name": "Bharathi",
+    "FatherName": "Dhakshinamoorthy",
+    "StudentGender": 2,
+    "DOB": "1997-11-10T00:00:00",
+    "TotalMark": 100
+  },
+  {
+    "Name": "Prakash",
+    "FatherName": "Dhakshinamoorthy",
+    "StudentGender": 1,
+    "DOB": "1994-01-06T00:00:00",
+    "TotalMark": 100
+  }
+]
